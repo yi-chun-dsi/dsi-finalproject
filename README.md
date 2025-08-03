@@ -1,3 +1,10 @@
+# :bulb: My Contribution to This Project
+This project was originally developed in collaboration with Alina Framke. 
+My contribution focused on the time series analysis in "mvg_rad_time_notebook.ipynb", where I implemented and evaluated a forecasting model using Prophet. I also explored different visualization techniques using Plotly und Streamlit to communicate trends and model performance.
+
+The original README from the collaboration project follows below.
+
+---
 # dsi-finalproject
 ## Final Project for DSI (Data Science Institute)
 
